@@ -1,5 +1,5 @@
 # SSDepth
-Reproduction of the SSD device "the vOICe" (Meijer, 1992)
+Reproduction of the SSD device "the vOICe" (Meijer, 1992) with multiple waveform handling for depth representation.
 
 ## Description
 This sample code :
